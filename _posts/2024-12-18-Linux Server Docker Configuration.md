@@ -1,6 +1,6 @@
 ---
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+title: Linux Server Docker Configuration
+date: 2024-12-18 16:57:00 +0800
 categories: [Linux, Docker]
 tags: [TAG]     # TAG names should always be lowercase
 ---
