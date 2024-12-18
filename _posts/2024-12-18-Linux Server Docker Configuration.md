@@ -1,6 +1,6 @@
 ---
-title: Linux Server Docker Configuration
-date: 2024-12-18 16:57:00 +0800
+title: "Linux Server Docker Configuration"
+date: 2024-12-18
 categories: [Linux, Docker]
 tags: [linux, docker]
 ---
