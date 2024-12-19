@@ -2,7 +2,7 @@
 title: "Linux Server Docker Configuration"
 date: 2024-12-18
 categories: [Linux, Docker]
-tags: [linux, docker]
+tags: [Linux, Docker]
 description: Docker configuration method for linux server.
 ---
 
