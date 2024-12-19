@@ -90,7 +90,7 @@ Start by running the `arch.exe` program.
 arch.exe
 ```
 
-Configuring and setting up ArchWSL is the same as configuring normal Arch Linux, so I won’t go into details here. For details, please visit this page.
+Configuring and setting up ArchWSL is the same as configuring normal Arch Linux, so I won’t go into details here. For details, please visit [this page](https://zzz-00.github.io/posts/Arch-Linux-Configuration/).
 
 After configuring users in ArchWSl, we need to return to Windows terminal to set the default user.
 
