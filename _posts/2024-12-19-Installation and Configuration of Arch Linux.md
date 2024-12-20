@@ -14,3 +14,6 @@ To be update.
 
 ### Prepare an installation medium
 
+Download the ISO file from the [Download](https://archlinux.org/download/) page and prepare a USB flash drive for installation.
+
+### 
