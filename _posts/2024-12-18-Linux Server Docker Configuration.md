@@ -6,8 +6,6 @@ tags: [Linux, Docker]
 description: Docker configuration method for linux server.
 ---
 
-# Linux Server Docker Configuration
-
 ## Main operations
 
 ### Create an image container that supports cudnn and cuda (GPU version)
