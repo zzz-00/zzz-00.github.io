@@ -44,9 +44,9 @@ Update `scoop` after installing it.
 scoop update
 ```
 
-### Optional
+## Optional
 
-#### Get the NerdFonts
+### Get the NerdFonts
 
 We first need to add the `nerd-fonts` bucket.
 
@@ -64,7 +64,7 @@ Then you should set your Windows terminal to use one of the fonts you installed 
 
 More information about `nerd-fonts` can be found [here](https://www.nerdfonts.com/).
 
-### Installing ArchWSL
+## Installing ArchWSL
 
 We need to get ArchWSL from the `extra` bucket and set the version of WSL to version 2 which is recommended.
 
@@ -82,7 +82,7 @@ wsl --install --no-distribution
 
 > NOTE: Run Windows terminal as administrator.
 
-### Configuring and setting up ArchWSL
+## Configuring and setting up ArchWSL
 
 Start by running the `arch.exe` program.
 
