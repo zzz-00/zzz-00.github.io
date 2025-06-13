@@ -22,7 +22,7 @@ description: OpenCV环境配置示例
 
 ## 配置环境变量
 
-将上一步选择的路径下的`<path_to_opencv>\opencv\build\x64\vc16\bin`文件夹加入系统的环境变量中。
+将上一步选择的路径下的`<path_to_opencv>\opencv\build\x64\vc16\bin`{: .filepath}文件夹加入系统的环境变量中。
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image2.png" alt="" />
 
