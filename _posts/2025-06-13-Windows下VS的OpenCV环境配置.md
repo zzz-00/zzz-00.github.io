@@ -86,7 +86,7 @@ description: OpenCV环境配置示例
 
 ## 测试程序
 
-```C++
+```cpp
 #include<opencv2/opencv.hpp>
 #include<iostream>
 
