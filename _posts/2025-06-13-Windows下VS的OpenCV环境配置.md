@@ -54,11 +54,11 @@ description: OpenCV环境配置示例
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image9.png" alt="" />
 
-2.在打开的属性管理器中，右键“Debug|x64”$\rightarrow$“添加新的属性表”。名称改为“Opencv4.11.0.d.props”，后缀d表示Debug模式。
+2.在打开的属性管理器中，右键“Debug\|x64”$\rightarrow$“添加新的属性表”。名称改为“Opencv4.11.0.d.props”，后缀d表示Debug模式。
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image10.png" alt="" />
 
-3.双击“Debug|x64”下的“Opencv4.11.0d”，出现如下图所示的属性页面。
+3.双击“Debug\|x64”下的“Opencv4.11.0d”，出现如下图所示的属性页面。
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image11.png" alt="" />
 
