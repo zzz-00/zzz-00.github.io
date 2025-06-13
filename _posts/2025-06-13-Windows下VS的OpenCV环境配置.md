@@ -44,7 +44,7 @@ description: OpenCV环境配置示例
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image7.png" alt="" />
 
-5.选择C++文件，命名为`main.cpp`，然后点击添加。
+5.选择C++文件，命名为`main.cpp`{: .filepath}，然后点击添加。
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image8.png" alt="" />
 
@@ -68,19 +68,19 @@ description: OpenCV环境配置示例
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image12.png" alt="" />
 
-6.添加OpenCV安装文件夹下的两个路径`<path_to_opencv>\opencv\build\include`和`<path_to_opencv>\opencv\build\include\opencv2`。
+6.添加OpenCV安装文件夹下的两个路径`<path_to_opencv>\opencv\build\include`{: .filepath}和`<path_to_opencv>\opencv\build\include\opencv2`{: .filepath}。
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image13.png" alt="" />
 
-7.点击“VC++目录”$\rightarrow$“库目录”$\rightarrow$点击右侧小三角$\rightarrow$“编辑”，添加`<path_to_opencv>\opencv\build\x64\vc16\lib`路径。
+7.点击“VC++目录”$\rightarrow$“库目录”$\rightarrow$点击右侧小三角$\rightarrow$“编辑”，添加`<path_to_opencv>\opencv\build\x64\vc16\lib`{: .filepath}路径。
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image14.png" alt="" />
 
-8.点击“链接器”$\rightarrow$“输入”$\rightarrow$点击右侧小三角$\rightarrow$“编辑”，添加`opencv_world4110d.lib`。
+8.点击“链接器”$\rightarrow$“输入”$\rightarrow$点击右侧小三角$\rightarrow$“编辑”，添加`opencv_world4110d.lib`{: .filepath}。
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image15.png" alt="" />
 
-9.若在Release模式下，其他步骤完全一致，最后一步添加依赖项时输入`opencv_world4110.lib`，无`d`后缀。
+9.若在Release模式下，其他步骤完全一致，最后一步添加依赖项时输入`opencv_world4110.lib`{: .filepath}，无`d`后缀。
 
 10.在属性管理器中右键“Opencv4.11.0d”后保存属性表，后续新建项目时只需要导入即可。
 
