@@ -6,7 +6,7 @@ tags: [Linux, Arch Linux, Configuration]
 description: My Arch Linux installation and configuration process.
 ---
 
-To be update.
+To be updated.
 
 ## Pre-installation
 
