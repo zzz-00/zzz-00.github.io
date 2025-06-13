@@ -40,7 +40,7 @@ description: OpenCV环境配置示例
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image6.png" alt="" />
 
-4.创建完成后右键项目名称$\rightarrow$“添加”$\rightarrow$“新建项”。
+4.创建完成后右键项目名称→“添加”→“新建项”。
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image7.png" alt="" />
 
@@ -54,7 +54,7 @@ description: OpenCV环境配置示例
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image9.png" alt="" />
 
-2.在打开的属性管理器中，右键“Debug\|x64”$\rightarrow$“添加新的属性表”。名称改为“Opencv4.11.0.d.props”，后缀d表示Debug模式。
+2.在打开的属性管理器中，右键“Debug\|x64”→“添加新的属性表”。名称改为“Opencv4.11.0.d.props”，后缀`d`表示Debug模式。
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image10.png" alt="" />
 
@@ -62,7 +62,7 @@ description: OpenCV环境配置示例
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image11.png" alt="" />
 
-4.点击“VC++目录”$\rightarrow$“包含目录”$\rightarrow$点击右侧小三角$\rightarrow$“编辑”，添加包含目录。
+4.点击“VC++目录”→“包含目录”→点击右侧小三角→“编辑”，添加包含目录。
 
 5.点击右侧文件夹符号。
 
@@ -72,11 +72,11 @@ description: OpenCV环境配置示例
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image13.png" alt="" />
 
-7.点击“VC++目录”$\rightarrow$“库目录”$\rightarrow$点击右侧小三角$\rightarrow$“编辑”，添加`<path_to_opencv>\opencv\build\x64\vc16\lib`{: .filepath}路径。
+7.点击“VC++目录”→“库目录”→点击右侧小三角→“编辑”，添加`<path_to_opencv>\opencv\build\x64\vc16\lib`{: .filepath}路径。
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image14.png" alt="" />
 
-8.点击“链接器”$\rightarrow$“输入”$\rightarrow$点击右侧小三角$\rightarrow$“编辑”，添加`opencv_world4110d.lib`{: .filepath}。
+8.点击“链接器”→“输入”→点击右侧小三角→“编辑”，添加`opencv_world4110d.lib`{: .filepath}。
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image15.png" alt="" />
 
