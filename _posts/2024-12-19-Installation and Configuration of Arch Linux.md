@@ -8,8 +8,6 @@ description: My Arch Linux installation and configuration process.
 
 To be update.
 
-# Installation
-
 ## Pre-installation
 
 ### Prepare an installation medium
