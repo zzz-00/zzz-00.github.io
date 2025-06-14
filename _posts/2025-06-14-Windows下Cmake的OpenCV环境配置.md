@@ -76,7 +76,7 @@ description: OpenCV环境配置示例
 
 1.创建新项目，新建一个`CMakeLists.txt`{: .filepath}和`main.cpp`{: .filepath}文件，以下使用VS Code示范。
 
-```CMakeLists
+```cmake
 # CMakeLists.txt
 cmake_minimum_required(VERSION 3.30)
 
