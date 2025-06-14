@@ -12,7 +12,7 @@ description: OpenCV环境配置示例
 
 进入[VS下载页面](https://visualstudio.microsoft.com/zh-hans/downloads/)，下载VS的Community版本，下载完成后安装即可，注意需要勾选C++桌面开发。
 
-<img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-14-Windows下VS的OpenCV环境配置/image3.png" alt="" />
+<img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下VS的OpenCV环境配置/image3.png" alt="" />
 
 ### 下载OpenCV
 
@@ -118,7 +118,7 @@ int main()
 
 2.运行结果
 
-<img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-13-Windows下Cmake的OpenCV环境配置/image14.png" alt="" />
+<img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-14-Windows下Cmake的OpenCV环境配置/image14.png" alt="" />
 
 ## 参考链接
 
