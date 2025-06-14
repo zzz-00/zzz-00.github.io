@@ -120,6 +120,10 @@ int main()
 
 <img style="display: block; margin: 0 auto;" src="../assets/img/2025-06-14-Windows下Cmake的OpenCV环境配置/image14.png" alt="" />
 
+## 补充
+
+若编译失败，可在[此链接](https://drive.google.com/drive/folders/1MWTSMbz9gFhNqlyWecARt_utOnzHNpss?usp=sharing)下载已编译好的OpenCV包。
+
 ## 参考链接
 
 知乎：[https://zhuanlan.zhihu.com/p/620479751](https://zhuanlan.zhihu.com/p/620479751)
